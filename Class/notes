@@ -1,0 +1,9 @@
+md = make directory (md directoryName)
+cd = change directory 
+dir = lisiting directory
+
+"npm -g install @angular/cli" = to install angular
+nodePakageManager -global install @angular/comandLineInterface
+
+"ng new myFisrstApp"
+angular new nameOfTheApplication

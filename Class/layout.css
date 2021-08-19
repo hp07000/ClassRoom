@@ -1,0 +1,32 @@
+#page{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+}
+#left{
+    float: left;
+    background-color: white;
+    width: 20vw;
+    height: 100vh;
+}
+#right{
+    float: right;
+    background-color: white;
+    width: 80vw;
+    height: 100vh;
+}
+#right1{
+    height: calc(100% - 0px);
+    border-width: 0px;
+    width: calc(100% - 0px);
+}
+#left1{
+    height: calc(100% - 0px);
+    border-width: 0px;
+    width: calc(100% - 0px);
+}

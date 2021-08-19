@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+h3{
+    border-style: solid;
+    border-color: black;
+}
+.alkalineEarth{
+    background: rgb(254,192,25);
+    background: linear-gradient(141deg, rgba(254,192,25,1) 53%, rgba(249,157,33,1) 80%);
+}
+.alkali{
+    background: rgb(229,36,112);
+    background: linear-gradient(141deg, rgba(229,36,112,1) 53%, rgba(237,125,111,1) 80%);  
+}
+.lanthanide{
+    background-color: #f49cc3;
+}
+.transitionMetal{
+    background: rgb(243,236,38);
+    background: linear-gradient(141deg, rgba(243,236,38,1) 53%, rgba(252,194,102,1) 80%);;
+}
+.actinide{
+    background-color: #b85f86;
+}
+.halogen{
+    background-color: #9157a4;
+}
+.nobleGas{
+    background-color: #5e427b;
+}
+.semiMetal{
+    background-color: #6ad0f5;
+}
+.bacisMetal{
+    background-color: #53c18a;
+}
+.nonMetal{
+    background-color: #7fb2df;
+}
+body{
+    margin: 0px;
+}
