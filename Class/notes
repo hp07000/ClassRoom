@@ -7,3 +7,6 @@ nodePakageManager -global install @angular/comandLineInterface
 
 "ng new myFisrstApp"
 angular new nameOfTheApplication
+
+tsc --init : initialization
+npm i typescript -g : for installing typescript
